@@ -1,4 +1,4 @@
-mxnet==1.6.0
+mxnet==1.9.1
 numpy==1.26.4
 retrying==1.3.4
 sagemaker_inference==1.10.1
